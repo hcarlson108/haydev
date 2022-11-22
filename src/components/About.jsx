@@ -1,5 +1,4 @@
 import React from 'react'
-
 function About() {
   return (
     <div name='about' className='w-full h-screen bg-[#e9ecef]'>
@@ -8,6 +7,8 @@ function About() {
         <h1 className='text-4xl sm:text-7xl'>about</h1>
         
         </div>
+
+        
     </div>
   )
 }
