@@ -1,6 +1,5 @@
 import React from 'react'
 import { HiArrowRight } from 'react-icons/hi'
-import Movieclip from '../assets/haydevClip.mov'
 
 function Home() {
   return (
